@@ -1,0 +1,48 @@
+1.
+#include <stdio.h>
+
+int main()
+{
+    int num;
+    printf("Enter the value");
+    scanf("%d",&num);
+    printf("The number is %d",num);
+}
+
+2.
+#include<stdio.h>  is a  header file  where # is a preprocessor , include is the command which  includes standard input and output statements into main function.stdio is library functions which include input and output and  .h   is  an extension  to that library function.
+
+3.
+printf is standard input and output function where it is used to print the statement .
+
+4.
+main()  is the function with which a c program starts.It has a return type and it is called by operating system when the program is executed.
+
+5
+Variables are the names given to memory locations.It holds a value which are used in programs.
+
+6.
+The basic data type of variables
+1.integer type(positive numbers)
+2.float 
+3.double
+4.character
+5.boolean(true or false)
+
+7.
+& operator is bitwise operator in c.It takes two operands and does  AND on each bit of two numbers and the result will be 1 if both the bits are 1.
+
+8.
+%d is a format specifier of integer in c.It is used in printf and scanf to format it as positive numbers.
+
+
+9.
+Compilation of a program forms a intermediate human readable language as code is translated to assembly instructions specific to target processor.
+
+10.
+Running a program in c is process of compiling and executing the given code  by the user.
+
+11.
+Syntax errors are the errors which occur in the code during execution
+Some of the errors are
+Missing semicolon, missing return type,missing { }.
